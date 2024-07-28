@@ -1,6 +1,6 @@
 ---
-name: User Story 1
-about: This is my first issue creation in  GitHub
+name: User Story
+about: This is my first User story template
 title: ''
 labels: ''
 assignees: ''
